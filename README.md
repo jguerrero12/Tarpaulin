@@ -4,7 +4,7 @@ Tarpaulin is a canvass drawing app, detailing gestures and animations for iOS.
 
 Submitted by: Jose A. Guerrero
 
-Time spent: 12 hours spent in total
+Time spent: 13 hours spent in total
 
 ## User Stories
 
